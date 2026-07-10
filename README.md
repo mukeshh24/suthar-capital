@@ -1,36 +1,195 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💼 Suthar Capital
 
-## Getting Started
+## 🎥 Live Demo
 
-First, run the development server:
+![Suthar Capital Demo](./public/demo/suthar-capital.gif)
+
+---
+
+# 🌐 Live Demo
+
+### Website
+
+https://suthar-capital.vercel.app
+
+---
+
+# 📖 About
+
+Suthar Capital is a modern corporate finance landing page built with **Next.js**, **React**, **Tailwind CSS**, **GSAP**, and **Lenis**. The project focuses on delivering a premium user experience through smooth scrolling, immersive animations, clean layouts, and responsive design inspired by modern investment and financial websites.
+
+---
+
+# ✨ Features
+
+### 🎨 Modern Corporate UI
+
+- Premium Finance Inspired Design
+- Clean Typography
+- Fullscreen Hero Section
+- Interactive Content Sections
+- Professional Card Layouts
+- Modern Hover Effects
+
+---
+
+### ⚡ Smooth Experience
+
+- Lenis Smooth Scrolling
+- GSAP Scroll Animations
+- ScrollTrigger Effects
+- Sticky Sections
+- Smooth Section Navigation
+- Interactive Menu Animation
+
+---
+
+### 📱 Responsive Design
+
+- Mobile Responsive
+- Tablet Responsive
+- Desktop Responsive
+- Cross Browser Compatible
+
+---
+
+### ♻️ Reusable Architecture
+
+- Component-Based Architecture
+- JSON Driven Content
+- Reusable Sections
+- Clean Folder Structure
+- Easy Maintenance
+- Scalable Codebase
+
+---
+
+# 🛠 Tech Stack
+
+### Frontend
+
+- Next.js
+- React.js
+- JavaScript (ES6+)
+- Tailwind CSS
+- GSAP
+- ScrollTrigger
+- @gsap/react
+- Lenis
+- Lucide React
+- JSON Data
+
+---
+
+# 📂 Project Structure
+
+```text
+suthar-capital
+│
+├── app
+├── components
+├── json
+├── lib
+├── providers
+├── public
+│   ├── images
+│   ├── videos
+│   └── fonts
+│
+├── package.json
+└── README.md
+```
+
+---
+
+# ⚙️ Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/mukeshh24/suthar-capital.git
+```
+
+---
+
+### Install Dependencies
+
+```bash
+npm install
+```
+
+---
+
+### Start Development Server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Build for Production
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run build
+```
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+# 🚀 Sections
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Hero
+- Who We Are
+- Core Stats
+- Our People
+- Our Solutions
+- News & Insights
+- Footer
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+# 💡 Highlights
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Modern Corporate Landing Page
+- Premium UI Design
+- GSAP Scroll Animations
+- Lenis Smooth Scrolling
+- Interactive Navigation Menu
+- Sticky Components
+- JSON Driven Content
+- Responsive Layout
+- Component-Based Architecture
+- Performance Optimized
+- SEO Friendly
+- Production Ready
+- Clean & Maintainable Code
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+# 🚀 Deployment
+
+### Frontend
+
+- Vercel
+
+---
+
+# 👨‍💻 Author
+
+### Mukesh N. Suthar
+
+**GitHub**
+
+https://github.com/mukeshh24
+
+**LinkedIn**
+
+https://linkedin.com/in/mukesh-sutharr
+
+**Portfolio**
+
+https://mukeshsuthar.vercel.app/
+
+---
+
+⭐ If you like this project, don't forget to give it a star.

@@ -154,12 +154,8 @@ const Header = () => {
               <li key={item.id} className="menu-item">
                 <button
                   onClick={() => handleClick(item.href)}
-                  className={`cursor-pointer w-full rounded-sm px-4 py-3 flex items-center gap-4 transition-all duration-300
-          ${
-            activeSection === item.href.replace("#", "")
-              ? "bg-[#00F2E5] text-[#181818]"
-              : "text-white hover:bg-white/10"
-          }`}
+                  className={`cursor-pointer w-full rounded-sm px-4 py-3 flex items-center gap-4 transition-all duration-300 text-white hover:bg-white/10
+          `}
                 >
                   <span className="tabular-nums">{item.number}</span>
                   <span>{item.title}</span>
