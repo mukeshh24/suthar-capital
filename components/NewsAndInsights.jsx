@@ -12,7 +12,7 @@ const NewsAndInsights = () => {
           <h4 className="text-[15px] capitalize">News & Insights</h4>
         </div>
         <div className="w-full min-h-screen flex flex-col lg:flex-row items-start gap-5 lg:gap-0 px-4 lg:px-6">
-          <div className="w-full lg:w-1/2 lg:sticky top-120 xl:top-160 left-0 order-2 lg:order-1">
+          <div className="w-full lg:w-1/2 lg:sticky top-120 xl:top-145 left-0 order-2 lg:order-1">
             <Link
               href={"/"}
               className="p-3 flex items-center justify-between w-full lg:w-2/3 pt-20 rounded-sm capitalize text-white bg-[#114167] hover:bg-[#00F2E5] hover:text-[#181818] transition-all duration-300"
